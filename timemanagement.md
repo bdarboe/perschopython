@@ -1,5 +1,5 @@
 
-# :spiral_calendar_pad: Time Management OS
+# Time Management OS
 > Purpose: Plan your week, block your time, and review with clear metrics.
 ---
 ## 1) North Star & Focus
